@@ -28,14 +28,12 @@ The frontend is designed with a responsive UI to deliver a smooth experience acr
 
 🧩 Modular & Scalable Codebase: Easily extendable to include new features like notifications or authentication.
 
-## 💻 Installation 
-Clone this repository to your local machine:
-https://github.com/kunalbrahmankar11/RealTimeChatApp.git
+
 
 ## 📋 Prerequisites
 Before you begin, ensure you have the following installed on your system:
 
-## 🔧 Backend (Spring Boot)
+**🔧 Backend (Spring Boot)**
 ✅ Java 17 or higher
 
 ✅ Maven or Gradle (build tool)
@@ -44,12 +42,16 @@ Before you begin, ensure you have the following installed on your system:
 
 ✅ IDE (e.g., IntelliJ IDEA, Eclipse)
 
-## 🎨 Frontend (React.js)
+**🎨 Frontend (React.js)**
 ✅ Node.js (v14 or higher recommended)
 
 ✅ npm or yarn
 
 ✅ Code editor (e.g., VS Code)
+
+## 💻 Installation 
+Clone this repository to your local machine:
+https://github.com/kunalbrahmankar11/RealTimeChatApp.git
 
 ## 🙋‍♂️ Contact
 
