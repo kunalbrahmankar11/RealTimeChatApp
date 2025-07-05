@@ -14,11 +14,17 @@ The frontend is designed with a responsive UI to deliver a smooth experience acr
 
 🔑 Key Features
 🔄 Real-Time Messaging: Send and receive messages instantly using WebSocket technology.
+
 📎 File & Image Sharing: Share images, documents, and other files in conversations.
+
 💬 Private & Group Chats: Support for one-on-one and group messaging.
+
 💾 Persistent Chat History: Messages and files are stored securely in MongoDB.
+
 🖥️ Responsive UI: Built with React.js for a modern and user-friendly experience across all devices.
+
 ⚙️ Spring Boot Backend: RESTful APIs and WebSocket endpoints using a clean, layered architecture.
+
 🧩 Modular & Scalable Codebase: Easily extendable to include new features like notifications or authentication.
 
 ## Installation 
