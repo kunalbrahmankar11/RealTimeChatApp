@@ -12,14 +12,14 @@ The frontend is designed with a responsive UI to deliver a smooth experience acr
 - 🧪 **Testing:** Postman
 - 🧩 **Other:** Lombok
 
-🚀 Key Features
-Real-Time Messaging: Instant message delivery using WebSocket for a seamless chat experience.
-File and Image Sharing: Users can share images, documents, and other files directly in chat.
-User-Friendly Interface: Clean, responsive UI built with React.js for smooth user interaction.
-Persistent Chat History: All messages and files are stored in MongoDB for future access.
-Private and Group Chat Support: Enables one-on-one and group conversations.
-Spring Boot Backend: REST APIs and WebSocket endpoints are managed using a secure, layered architecture.
-Scalable and Modular Codebase: Designed for easy future enhancements and feature additions.
+🔑 Key Features
+🔄 Real-Time Messaging: Send and receive messages instantly using WebSocket technology.
+📎 File & Image Sharing: Share images, documents, and other files in conversations.
+💬 Private & Group Chats: Support for one-on-one and group messaging.
+💾 Persistent Chat History: Messages and files are stored securely in MongoDB.
+🖥️ Responsive UI: Built with React.js for a modern and user-friendly experience across all devices.
+⚙️ Spring Boot Backend: RESTful APIs and WebSocket endpoints using a clean, layered architecture.
+🧩 Modular & Scalable Codebase: Easily extendable to include new features like notifications or authentication.
 
 ## Installation 
 Clone this repository to your local machine:
