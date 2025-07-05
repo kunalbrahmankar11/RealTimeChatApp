@@ -32,6 +32,25 @@ The frontend is designed with a responsive UI to deliver a smooth experience acr
 Clone this repository to your local machine:
 https://github.com/kunalbrahmankar11/RealTimeChatApp.git
 
+## 📋 Prerequisites
+Before you begin, ensure you have the following installed on your system:
+
+## 🔧 Backend (Spring Boot)
+✅ Java 17 or higher
+
+✅ Maven or Gradle (build tool)
+
+✅ MongoDB (local or cloud instance)
+
+✅ IDE (e.g., IntelliJ IDEA, Eclipse)
+
+## 🎨 Frontend (React.js)
+✅ Node.js (v14 or higher recommended)
+
+✅ npm or yarn
+
+✅ Code editor (e.g., VS Code)
+
 ## 🙋‍♂️ Contact
 
 📂 Name: Krunal Brahmankar
