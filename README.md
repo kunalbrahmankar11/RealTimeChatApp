@@ -12,9 +12,18 @@ The frontend is designed with a responsive UI to deliver a smooth experience acr
 - 🧪 **Testing:** Postman
 - 🧩 **Other:** Lombok
 
+🚀 Key Features
+Real-Time Messaging: Instant message delivery using WebSocket for a seamless chat experience.
+File and Image Sharing: Users can share images, documents, and other files directly in chat.
+User-Friendly Interface: Clean, responsive UI built with React.js for smooth user interaction.
+Persistent Chat History: All messages and files are stored in MongoDB for future access.
+Private and Group Chat Support: Enables one-on-one and group conversations.
+Spring Boot Backend: REST APIs and WebSocket endpoints are managed using a secure, layered architecture.
+Scalable and Modular Codebase: Designed for easy future enhancements and feature additions.
 
-
-
+## Installation 
+Clone this repository to your local machine:
+https://github.com/kunalbrahmankar11/RealTimeChatApp.git
 
 🙋‍♂️ Contact
 📂 Name: Krunal Brahmankar
