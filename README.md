@@ -12,7 +12,8 @@ The frontend is designed with a responsive UI to deliver a smooth experience acr
 - 🧪 **Testing:** Postman
 - 🧩 **Other:** Lombok
 
-🔑 Key Features
+## 🔑 Key Features
+
 🔄 Real-Time Messaging: Send and receive messages instantly using WebSocket technology.
 
 📎 File & Image Sharing: Share images, documents, and other files in conversations.
@@ -27,11 +28,12 @@ The frontend is designed with a responsive UI to deliver a smooth experience acr
 
 🧩 Modular & Scalable Codebase: Easily extendable to include new features like notifications or authentication.
 
-## Installation 
+## 💻 Installation 
 Clone this repository to your local machine:
 https://github.com/kunalbrahmankar11/RealTimeChatApp.git
 
-🙋‍♂️ Contact
+## 🙋‍♂️ Contact
+
 📂 Name: Krunal Brahmankar
 
 📂 Email: krunalbrahmankar43@gmail.com
